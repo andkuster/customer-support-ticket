@@ -36,6 +36,8 @@ The dataset contains 8.4k samples of the purchase history of various tech produc
 - **Visualization:** Visual representation of sentiment distribution or trends within support tickets.
 - **Insights and Recommendations:** Extracting actionable insights to improve support team efficiency and customer satisfaction.
 
+###### Notebook: [Access here](https://github.com/andkuster/customer-support-ticket/blob/main/portfolio_sentimental_analysis.ipynb)
+
 ## Technologies
 
 - Programming Language: Python
