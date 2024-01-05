@@ -16,7 +16,7 @@ This project involves analyzing support tickets to understand the sentiment expr
 
 - [Introduction](#introduction)
 - [Dataset](#dataset)
-- [Features](#features)
+- [Notebook Features](#notebookfeatures)
 - [Technologies](#technologies)
 - [Contributing](#contributing)
 - [License](#license)
@@ -29,7 +29,7 @@ Support ticket systems generate vast amounts of customer feedback. <br> <br> Thi
 The dataset contains 8.4k samples of the purchase history of various tech products. It consists of customer inquiries related to hardware issues, software bugs, network problems, account access, data loss, and other support topics. 
 ###### Source: https://www.kaggle.com/datasets/suraj520/customer-support-ticket-dataset/data
 
-## Features
+## Notebook Features
 
 - **Text Preprocessing:** Cleaning and tokenization of support ticket text data.
 - **Sentiment Classification:** Utilizing machine learning models to classify sentiments expressed in customer messages.
@@ -41,13 +41,11 @@ The dataset contains 8.4k samples of the purchase history of various tech produc
 ## Technologies
 
 - Programming Language: Python
-- Libraries: NLTK, Scikit-learn, TensorFlow or PyTorch (for deep learning), Pandas, Matplotlib, Seaborn
+- Libraries: NLTK, Scikit-learn, Pandas, Matplotlib, Seaborn
 - Tools: Jupyter Notebook
 
 ## Contributing
 Contributions are welcome! Feel free to submit issues or pull requests.
-
-## Contact Information
 For any inquiries or collaboration opportunities, you can reach out to https://www.linkedin.com/in/andre-kuster/
 
 ## License
